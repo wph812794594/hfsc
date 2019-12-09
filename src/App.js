@@ -1,8 +1,8 @@
 import React from 'react';
-
+import Home from './pages/home'
 function App() {
   return (
-    <div>华丰商城</div>
+    <Home/>
   );
 }
 
